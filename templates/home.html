@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero">
+  <div class="wrap">
+    <p class="eyebrow">Nashville first · more cities coming</p>
+    <h1>How to get rid of anything — the cheap way, the free way, the fast way.</h1>
+    <p class="lede">Mattresses, couches, fridges, TVs, old paint, worn-out tires. Curbwise turns your city's official rules into plain answers: where it goes, what it costs, and what to bring.</p>
+  </div>
+</section>
+
+{% for slug, items in guides.items() %}
+{% set c = cities[slug] %}
+<section class="wrap section">
+  <h2>{{ c.name }}, {{ c.state }}</h2>
+  <div class="item-grid">
+    {% for g in items %}
+    <a class="item-card" href="{{ url(g.path) }}">
+      <span class="item-label">{{ g.item_label }}</span>
+      <span class="item-summary">{{ g.summary }}</span>
+    </a>
+    {% endfor %}
+    <a class="item-card item-card-hub" href="{{ url('/' ~ slug ~ '/') }}">
+      <span class="item-label">Everything else</span>
+      <span class="item-summary">All four Convenience Centers, hours, fees and rules</span>
+    </a>
+  </div>
+</section>
+{% endfor %}
+
+<section class="wrap section trust">
+  <h2>Where the answers come from</h2>
+  <p>Every guide is built from the city's own pages and links to them at the bottom, with the date we last checked. Guides are researched by Yeha, an AI research assistant. Spot something out of date? <a href="{{ url('/suggest/') }}">Tell us</a>.</p>
+</section>
+{% endblock %}

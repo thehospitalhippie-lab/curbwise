@@ -1,0 +1,153 @@
+{
+  "slug": "nashville",
+  "name": "Nashville",
+  "state": "TN",
+  "county": "Davidson County",
+  "authority": "Nashville Department of Waste Services",
+  "phone": "615-862-5000",
+  "last_checked": "2026-11-05",
+  "centers": [
+    {
+      "key": "anderson",
+      "name": "Anderson Lane Convenience Center",
+      "address": "939A Anderson Ln, Madison, TN 37115"
+    },
+    {
+      "key": "east",
+      "name": "East Convenience Center",
+      "address": "943A Doctor Richard G. Adams Dr, Nashville, TN 37207"
+    },
+    {
+      "key": "ezell",
+      "name": "Ezell Pike Convenience Center",
+      "address": "3254 Ezell Pk, Nashville, TN 37211"
+    },
+    {
+      "key": "omohundro",
+      "name": "Omohundro Convenience Center",
+      "address": "1019 Omohundro Pl, Nashville, TN 37210"
+    }
+  ],
+  "hours": "Tuesday–Saturday, 8:30 a.m.–4:30 p.m. Closed on Metro holidays.",
+  "rules": [
+    "Bring a Tennessee driver's license that shows a Davidson County address.",
+    "You unload your own load.",
+    "Household (residential) material only — no commercial waste, and no vehicles with commercial advertising or commercial tags.",
+    "Household trash must be bagged.",
+    "Payment: cash (not at Omohundro), check, or card. Cards carry a 2.8% fee, minimum $1.95. Prices are set by Metro and aren't negotiable."
+  ],
+  "fees": [
+    {
+      "key": "free_load",
+      "material": "3 bags of trash (30 gal max each) + 1 bulk item",
+      "where": "All four centers",
+      "fee": "Free",
+      "limits": "1 visit a day. Excludes mattresses, tires with rims, and construction debris."
+    },
+    {
+      "key": "recycling",
+      "material": "Recycling and compost drop-off",
+      "where": "All four centers",
+      "fee": "Free",
+      "limits": "1 visit a day"
+    },
+    {
+      "key": "electronics",
+      "material": "Electronics",
+      "where": "East, Ezell Pike, Omohundro",
+      "fee": "Free",
+      "limits": "Up to 100 lbs; see the accepted list"
+    },
+    {
+      "key": "hhw",
+      "material": "Household hazardous waste",
+      "where": "East, Ezell Pike",
+      "fee": "Free",
+      "limits": "Up to 15 gallons or 100 lbs"
+    },
+    {
+      "key": "tires",
+      "material": "Tires without rims",
+      "where": "East, Ezell Pike",
+      "fee": "Free",
+      "limits": "4 tires a month"
+    },
+    {
+      "key": "tires_rims",
+      "material": "Tires with rims",
+      "where": "East, Ezell Pike",
+      "fee": "$5 per tire",
+      "limits": "4 tires a month"
+    },
+    {
+      "key": "mattress",
+      "material": "Mattresses and box springs",
+      "where": "East, Ezell Pike, Omohundro",
+      "fee": "$12 each",
+      "limits": "4 a month"
+    },
+    {
+      "key": "cnd",
+      "material": "Small DIY construction debris",
+      "where": "Omohundro only",
+      "fee": "$20",
+      "limits": "Metro lists a 1–2 cubic yard cap; call ahead"
+    },
+    {
+      "key": "volume_small",
+      "material": "Anything else, under 1 cubic yard",
+      "where": "All four centers",
+      "fee": "$10",
+      "limits": "Up to 2 visits a day; load can't exceed the truck bed"
+    },
+    {
+      "key": "volume_large",
+      "material": "Anything else, 1–8 cubic yards",
+      "where": "All four centers",
+      "fee": "$20 per cubic yard",
+      "limits": "No construction debris; no trailers over 12 ft; no cargo vans or trailers at Anderson Lane"
+    }
+  ],
+  "not_accepted": [
+    "Ammunition",
+    "Asbestos",
+    "Brick, concrete, masonry, rock, dirt",
+    "Brush and leaves",
+    "Car parts (other than tires)",
+    "Fireworks and flares",
+    "Gas tanks",
+    "Medical waste",
+    "Pallets, poles, posts, railroad ties",
+    "Plumbing, gutters, siding, roofing shingles"
+  ],
+  "sources": [
+    {
+      "title": "Nashville.gov: Convenience Center fees, rules and requirements (updated May 28, 2026)",
+      "url": "https://www.nashville.gov/departments/waste-services/convenience-centers"
+    },
+    {
+      "title": "Nashville.gov: Convenience Center hours and locations",
+      "url": "https://www.nashville.gov/departments/waste-services/convenience-centers/hours-and-locations"
+    },
+    {
+      "title": "Nashville.gov: Bulky item collection",
+      "url": "https://www.nashville.gov/departments/waste-services/convenience-centers/bulky-item-collection"
+    }
+  ],
+  "haul_away": [
+    {
+      "name": "LoadUp",
+      "blurb": "Book online with an upfront price; pickup from inside your home or outside.",
+      "url": "https://goloadup.com/nashville/bulk-item-pickup/",
+      "affiliate": false,
+      "checked": "2026-11-05"
+    },
+    {
+      "name": "College HUNKS Hauling Junk",
+      "blurb": "Nashville junk removal; book online or get a free estimate.",
+      "url": "https://www.collegehunkshaulingjunk.com/nashville/junk-removal",
+      "affiliate": false,
+      "checked": "2026-11-05"
+    }
+  ]
+}

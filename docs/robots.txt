@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thehospitalhippie-lab.github.io/curbwise/sitemap.xml

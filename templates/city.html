@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="page-head wrap">
+  <p class="eyebrow">{{ city.name }} · {{ city.county }}</p>
+  <h1>{{ page.title }}</h1>
+  <p class="lede">Most big or tricky items go to one of {{ city.name }}'s four Convenience Centers. Here's where they are, what each takes, what it costs, and what to bring.</p>
+</section>
+
+<section class="wrap section">
+  <h2>Pick your item</h2>
+  <div class="item-grid">
+    {% for g in guides %}
+    <a class="item-card" href="{{ url(g.path) }}"><span class="item-label">{{ g.item_label }}</span><span class="item-summary">{{ g.summary }}</span></a>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="wrap section two-col">
+  <div>
+    <h2>The four Convenience Centers</h2>
+    <ul class="centers">
+      {% for c in city.centers %}<li><strong>{{ c.name }}</strong> — {{ c.address }}</li>{% endfor %}
+    </ul>
+    <p><strong>Hours:</strong> {{ city.hours }}</p>
+  </div>
+  <div class="callout">
+    <h2>Before you load the car</h2>
+    <ul>{% for r in city.rules %}<li>{{ r }}</li>{% endfor %}</ul>
+  </div>
+</section>
+
+<section class="wrap section">
+  <h2>What it costs</h2>
+  <div class="table-wrap">
+    <table class="fees">
+      <thead><tr><th>What you're bringing</th><th>Where</th><th>Fee</th><th>Limits</th></tr></thead>
+      <tbody>
+        {% for f in city.fees %}<tr><td>{{ f.material }}</td><td>{{ f.where }}</td><td class="fee">{{ f.fee }}</td><td>{{ f.limits }}</td></tr>{% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <h3>Not accepted at any center</h3>
+  <p class="muted">{{ city.not_accepted | join(' · ') }}</p>
+  <p>Questions: call the {{ city.authority }} at <a href="tel:{{ city.phone | replace('-', '') }}">{{ city.phone }}</a>.</p>
+</section>
+
+<section class="wrap section sources">
+  <h2>Sources</h2>
+  <ul>{% for s in city.sources %}<li><a href="{{ s.url }}" rel="noopener">{{ s.title }}</a></li>{% endfor %}</ul>
+  <p class="muted">Last checked {{ city.last_checked | human_date }}.</p>
+</section>
+{% endblock %}
