@@ -5,7 +5,7 @@
   "county": "Davidson County",
   "authority": "Nashville Department of Waste Services",
   "phone": "615-862-5000",
-  "last_checked": "2026-11-05",
+  "last_checked": "2026-11-06",
   "centers": [
     {
       "key": "anderson",
@@ -88,10 +88,10 @@
     },
     {
       "key": "cnd",
-      "material": "Small DIY construction debris",
+      "material": "Construction and demolition material",
       "where": "Omohundro only",
       "fee": "$20",
-      "limits": "Metro lists a 1–2 cubic yard cap; call ahead"
+      "limits": "Up to 2 cubic yards; 1 visit a day"
     },
     {
       "key": "volume_small",
@@ -105,20 +105,36 @@
       "material": "Anything else, 1–8 cubic yards",
       "where": "All four centers",
       "fee": "$20 per cubic yard",
-      "limits": "No construction debris; no trailers over 12 ft; no cargo vans or trailers at Anderson Lane"
+      "limits": "1 visit a day. No construction debris; no trailers over 12 ft; no cargo vans or trailers at Anderson Lane"
+    },
+    {
+      "key": "yard_waste",
+      "material": "Brush, leaves and other yard waste",
+      "where": "Living Earth: 1511 Elm Hill Pike or 6401 Centennial Blvd",
+      "fee": "Free",
+      "limits": "Davidson County residents; trailers are charged a fee; hours vary"
+    },
+    {
+      "key": "compost_bin",
+      "material": "Backyard compost bin (Metro sells these)",
+      "where": "East",
+      "fee": "$50",
+      "limits": "For sale at the center"
     }
   ],
   "not_accepted": [
     "Ammunition",
-    "Asbestos",
+    "Asbestos (shingles, flooring, etc.)",
     "Brick, concrete, masonry, rock, dirt",
     "Brush and leaves",
     "Car parts (other than tires)",
+    "Chain-link and rebar",
     "Fireworks and flares",
     "Gas tanks",
     "Medical waste",
     "Pallets, poles, posts, railroad ties",
-    "Plumbing, gutters, siding, roofing shingles"
+    "Plumbing, gutters, siding, roofing shingles",
+    "Radioactive material"
   ],
   "sources": [
     {
@@ -132,6 +148,10 @@
     {
       "title": "Nashville.gov: Bulky item collection",
       "url": "https://www.nashville.gov/departments/waste-services/convenience-centers/bulky-item-collection"
+    },
+    {
+      "title": "Nashville.gov (NDOT): Brush and Leaf Collection in Davidson County (updated Sept 22, 2026)",
+      "url": "https://www.nashville.gov/departments/transportation/right-way-maintenance/brush-and-yard-waste-collection"
     }
   ],
   "haul_away": [
