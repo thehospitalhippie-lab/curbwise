@@ -5,7 +5,7 @@
   "county": "Davidson County",
   "authority": "Nashville Department of Waste Services",
   "phone": "615-862-5000",
-  "last_checked": "2026-11-06",
+  "last_checked": "2026-11-07",
   "centers": [
     {
       "key": "anderson",
@@ -42,7 +42,7 @@
       "material": "3 bags of trash (30 gal max each) + 1 bulk item",
       "where": "All four centers",
       "fee": "Free",
-      "limits": "1 visit a day. Excludes mattresses, tires with rims, and construction debris."
+      "limits": "1 visit a day. Excludes mattresses, tires with rims, and construction debris"
     },
     {
       "key": "recycling",
@@ -91,7 +91,7 @@
       "material": "Construction and demolition material",
       "where": "Omohundro only",
       "fee": "$20",
-      "limits": "Up to 2 cubic yards; 1 visit a day"
+      "limits": "Up to 2 cubic yards on Metro's fee table, but its bulky item page says 1, so call to confirm. 1 visit a day"
     },
     {
       "key": "volume_small",
@@ -120,6 +120,27 @@
       "where": "East",
       "fee": "$50",
       "limits": "For sale at the center"
+    },
+    {
+      "key": "trash_cart",
+      "material": "Extra curbside trash cart",
+      "where": "Metro curbside service",
+      "fee": "$65",
+      "limits": "Up to 1 extra per home. Curbside service is for single-family homes in the Urban Services District"
+    },
+    {
+      "key": "recycling_cart",
+      "material": "Curbside recycling cart",
+      "where": "Metro curbside service",
+      "fee": "Free",
+      "limits": "Up to 2 per home"
+    },
+    {
+      "key": "replacement_cart",
+      "material": "Replacement cart (lost, stolen or damaged beyond repair)",
+      "where": "Metro curbside service",
+      "fee": "$65",
+      "limits": "The owner pays"
     }
   ],
   "not_accepted": [
@@ -142,12 +163,16 @@
       "url": "https://www.nashville.gov/departments/waste-services/convenience-centers"
     },
     {
-      "title": "Nashville.gov: Convenience Center hours and locations",
+      "title": "Nashville.gov: Convenience Center hours and locations (updated Oct 21, 2026)",
       "url": "https://www.nashville.gov/departments/waste-services/convenience-centers/hours-and-locations"
     },
     {
-      "title": "Nashville.gov: Bulky item collection",
+      "title": "Nashville.gov: Bulky item collection (updated Sept 17, 2025)",
       "url": "https://www.nashville.gov/departments/waste-services/convenience-centers/bulky-item-collection"
+    },
+    {
+      "title": "Nashville.gov: Curbside Trash and Recycling Services (updated Oct 19, 2026)",
+      "url": "https://www.nashville.gov/departments/waste-services/trash-and-recycling-services"
     },
     {
       "title": "Nashville.gov (NDOT): Brush and Leaf Collection in Davidson County (updated Sept 22, 2026)",

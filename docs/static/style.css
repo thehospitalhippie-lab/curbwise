@@ -78,6 +78,7 @@ td.fee { font-weight: 800; white-space: nowrap; }
 .haul h3 { margin-top: .6em; }
 .affiliate-note { font-size: .85rem; color: var(--ink-soft); }
 .sources, .prose .sources { font-size: .9rem; color: var(--ink-soft); }
+.sources a { overflow-wrap: anywhere; word-break: break-word; }
 .back { margin-top: 26px; font-weight: 700; }
 .trust { border-top: 1px solid var(--line); padding-top: 6px; }
 

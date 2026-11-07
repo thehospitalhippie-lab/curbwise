@@ -34,7 +34,7 @@ Metro's own advice is to donate furniture that still has life in it before you t
 
 ## Don't leave it at the curb
 
-Metro's bulky item page says anything too big for your curbside cart should go to a Convenience Center.
+Metro's bulky item page says anything too big for your curbside cart should go to a Convenience Center. Here's [what Metro does pick up at the curb]({{ url('/nashville/bulk-trash/') }}).
 
 {{ haul_away() }}
 
