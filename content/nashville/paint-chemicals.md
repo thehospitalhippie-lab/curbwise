@@ -33,6 +33,8 @@ Metro stopped accepting latex paint at its hazardous-waste drop-off back in 2014
 - **Not accepted:** medical waste, ammunition, fireworks, flares and gas tanks.
 - **Bring** a Tennessee driver's license with a Davidson County address. Household waste only, not from a business.
 
+Getting rid of cooking oil or grease? See [cooking oil and grease]({{ url('/nashville/cooking-oil/') }}).
+
 {{ haul_away() }}
 
 <div class="sources" markdown="1">

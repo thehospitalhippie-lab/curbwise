@@ -5,7 +5,7 @@
   "county": "Davidson County",
   "authority": "Nashville Department of Waste Services",
   "phone": "615-862-5000",
-  "last_checked": "2026-11-07",
+  "last_checked": "2026-11-08",
   "centers": [
     {
       "key": "anderson",
@@ -56,14 +56,21 @@
       "material": "Electronics",
       "where": "East, Ezell Pike, Omohundro",
       "fee": "Free",
-      "limits": "Up to 100 lbs; see the accepted list"
+      "limits": "Up to 100 lbs a day, including 1 TV no wider than 80 inches; 1 computer system a month"
     },
     {
       "key": "hhw",
       "material": "Household hazardous waste",
       "where": "East, Ezell Pike",
       "fee": "Free",
-      "limits": "Up to 15 gallons or 100 lbs"
+      "limits": "Up to 15 gallons or 100 lbs per household a month; 1 visit a day"
+    },
+    {
+      "key": "cooking_grease",
+      "material": "Household cooking oil and grease",
+      "where": "East",
+      "fee": "Free",
+      "limits": "Part of the hazardous-waste drop-off. Omohundro also takes it (no fee posted); call to confirm Ezell Pike"
     },
     {
       "key": "tires",
@@ -165,6 +172,18 @@
     {
       "title": "Nashville.gov: Convenience Center hours and locations (updated Oct 21, 2026)",
       "url": "https://www.nashville.gov/departments/waste-services/convenience-centers/hours-and-locations"
+    },
+    {
+      "title": "Nashville.gov: Household Hazardous Waste Collection (updated Apr 22, 2026)",
+      "url": "https://www.nashville.gov/departments/waste-services/convenience-centers/household-hazardous-waste"
+    },
+    {
+      "title": "Nashville.gov: Electronic Waste Recycling (updated Sept 18, 2025)",
+      "url": "https://www.nashville.gov/departments/waste-services/convenience-centers/electronic-waste-recycling"
+    },
+    {
+      "title": "Metro Nashville Waste Services: Nashville Area Recycling Service Providers (2026, PDF)",
+      "url": "https://www.nashville.gov/sites/default/files/2026-10/RecyclingServiceProviders2026.pdf"
     },
     {
       "title": "Nashville.gov: Bulky item collection (updated Sept 17, 2025)",
