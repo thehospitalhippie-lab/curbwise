@@ -5,7 +5,7 @@
   "county": "Davidson County",
   "authority": "Nashville Department of Waste Services",
   "phone": "615-862-5000",
-  "last_checked": "2026-11-08",
+  "last_checked": "2026-11-09",
   "centers": [
     {
       "key": "anderson",
@@ -68,9 +68,9 @@
     {
       "key": "cooking_grease",
       "material": "Household cooking oil and grease",
-      "where": "East",
+      "where": "East, Ezell Pike",
       "fee": "Free",
-      "limits": "Part of the hazardous-waste drop-off. Omohundro also takes it (no fee posted); call to confirm Ezell Pike"
+      "limits": "Part of the hazardous-waste drop-off. Omohundro also takes it (no fee posted)"
     },
     {
       "key": "tires",
