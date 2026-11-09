@@ -102,3 +102,8 @@ The Sunday report covers every Yeha site. For Curbwise, report pages shipped thi
 ## Choosing the next city
 
 Launch a city only when its official sources cover drop-off sites, hours, fees and rules. Suggested order: Murfreesboro and Rutherford County, Clarksville and Montgomery County, Franklin and Williamson County, then Memphis, Knoxville and Chattanooga. After Tennessee, favor large metros where both haul-away providers serve the city (check each provider's own site). Bigger cities bring more searches, but also more competition. A mid-size city with a confusing official site is often the better bet.
+
+## Money settings (added 2026-11-09)
+
+- `adsense_client` in `config.json` turns on Google Auto ads site-wide and writes `ads.txt`. Only Micaiah sets it, in chat. Pages with `no_ads: true` in their front matter never load ads. Never add ad code anywhere else.
+- An affiliate URL may contain `{page}`; the build swaps in the page's slug so network reports show which page earned. Use it in the network's sub-ID field (Awin `clickref`, FlexOffers `fobs`, Impact `subId1`).

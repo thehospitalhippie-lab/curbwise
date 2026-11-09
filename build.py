@@ -123,7 +123,8 @@ def main():
         for p in providers:
             rel = "sponsored nofollow noopener" if p.get("affiliate") else "nofollow noopener"
             any_aff = any_aff or p.get("affiliate")
-            items.append(f'<li><a href="{escape(p["url"])}" rel="{rel}"><strong>{escape(p["name"])}</strong></a> — {escape(p["blurb"])}</li>')
+            href = p["url"].replace("{page}", current["page"].strip("/").replace("/", "-") or "home")
+            items.append(f'<li><a href="{escape(href)}" rel="{rel}"><strong>{escape(p["name"])}</strong></a> — {escape(p["blurb"])}</li>')
         note = ('<p class="affiliate-note">Some of these are affiliate links: if you book through one, Curbwise may earn a commission '
                 f'at no extra cost to you. <a href="{url("/disclosures/")}">Disclosures</a>.</p>') if any_aff else ""
         return Markup('<aside class="haul"><h3>Rather not lift a thing?</h3>'
@@ -201,6 +202,9 @@ def main():
 
     urls = "".join(f"<url><loc>{canonical(p)}</loc><lastmod>{d}</lastmod></url>" for p, d in sitemap)
     (OUT / "sitemap.xml").write_text(f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>')
+    if site.get("adsense_client"):
+        pub = site["adsense_client"].replace("ca-", "")
+        (OUT / "ads.txt").write_text(f"google.com, {pub}, DIRECT, f08c47fec0942fa0\n")
     (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {canonical('/sitemap.xml')}\n")
     print(f"Built {len(sitemap)} pages for {len(cities)} city/cities -> {OUT}")
 

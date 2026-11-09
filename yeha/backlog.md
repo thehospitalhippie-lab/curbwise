@@ -29,8 +29,9 @@ Work top-down. One item per night. Seasonal items jump the line when their windo
 
 ## Site to-dos (need Micaiah)
 
+- **Google AdSense:** needs a custom domain first (AdSense won't approve a github.io subfolder). Then apply, and paste the `ca-pub-…` ID in chat → `config.json` `adsense_client`.
+- **Sub-IDs:** when pasting LoadUp (Awin) or College HUNKS (FlexOffers) links, add `{page}` as the click reference so reports show which page earned.
 - **Affiliate programs:** apply to LoadUp's affiliate program and to College HUNKS (it runs through an affiliate network). Once approved, paste the tracking links in a chat with Claude; Yeha never adds a tracking link on its own.
-- **Suggestion form** (Tally) URL → `config.json` `suggest_form_url`
 - **Google Search Console** verification code → `config.json` `search_console_verification`
 - **Custom domain** (optional) → `config.json` `site_url` and `base_path`, then set it in GitHub Pages
 
