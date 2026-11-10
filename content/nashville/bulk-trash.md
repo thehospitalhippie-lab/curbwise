@@ -62,7 +62,7 @@ Recycling carts are {{ fee('recycling_cart')['fee'] | lower }}, and you can have
 - **TVs and electronics:** {{ fee_text('electronics') }}. See [TVs and electronics]({{ url('/nashville/electronics-tvs/') }}).
 - **Tires:** without rims, {{ fee_text('tires') }}. On rims, {{ fee_text('tires_rims') }}. See [tires]({{ url('/nashville/tires/') }}).
 - **Oil-based paint and household chemicals:** {{ fee_text('hhw') }}. See [paint and chemicals]({{ url('/nashville/paint-chemicals/') }}).
-- **Remodel debris:** small do-it-yourself loads are {{ fee_text('cnd') }}. For bigger jobs, Metro says to use a private hauler or your contractor.
+- **Remodel debris:** small do-it-yourself loads are {{ fee_text('cnd') }}. For bigger jobs, Metro says to use a private hauler or your contractor. See [construction and remodel debris]({{ url('/nashville/construction-debris/') }}).
 
 ## What can't go in your trash cart
 

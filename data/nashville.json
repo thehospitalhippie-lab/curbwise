@@ -5,7 +5,7 @@
   "county": "Davidson County",
   "authority": "Nashville Department of Waste Services",
   "phone": "615-862-5000",
-  "last_checked": "2026-11-09",
+  "last_checked": "2026-11-10",
   "centers": [
     {
       "key": "anderson",
@@ -192,6 +192,10 @@
     {
       "title": "Nashville.gov: Curbside Trash and Recycling Services (updated Oct 19, 2026)",
       "url": "https://www.nashville.gov/departments/waste-services/trash-and-recycling-services"
+    },
+    {
+      "title": "Nashville.gov: Curbside Trash Collection Guidelines (updated July 9, 2025)",
+      "url": "https://www.nashville.gov/departments/waste-services/trash-and-recycling-services/trash-guidelines"
     },
     {
       "title": "Nashville.gov (NDOT): Brush and Leaf Collection in Davidson County (updated Sept 22, 2026)",

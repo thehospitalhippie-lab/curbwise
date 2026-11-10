@@ -67,7 +67,8 @@ These are Metro's tips for getting it there safely:
 - **Latex or acrylic paint:** dry it out, as described above.
 - **Unused or expired medicine:** Metro Nashville Police takes it at 10 locations (its precincts and headquarters), weekdays 8 a.m.–4 p.m. It takes prescription, over-the-counter and pet medicines, inhalers, and liquids in leak-proof containers. It doesn't take needles, thermometers, blood sugar equipment or IV bags. (Mercury thermometers can go to the hazardous-waste drop-off.) Addresses are on the police department's page (see Sources).
 - **Needles:** Metro says you can put them in a red sharps container, or a 2-liter bottle with the lid on, and put that in your trash. Other medical waste isn't accepted at the drop-off.
-- **Water-based stains, propane tanks, ammunition and explosives:** not accepted, and Metro's pages don't say where they go. Fireworks and flares aren't accepted at any Convenience Center, either.
+- **Water-based stains:** not accepted. Metro's trash guidelines say to dry them out like latex paint, by leaving the lid off or adding cat litter, before the can goes in your trash.
+- **Propane tanks, ammunition and explosives:** not accepted, and Metro's pages don't say where they go. Fireworks and flares aren't accepted at any Convenience Center, either.
 - **More than the monthly limit, or waste from outside Davidson County:** not accepted.
 
 Questions about household hazardous waste, including the items above: call Metro at 615-862-5000.
@@ -83,6 +84,7 @@ Hiring a junk hauler instead? Ask whether they take paint and chemicals before y
 - Nashville.gov (Waste Services), *Household Hazardous Waste Collection* (updated Apr 22, 2026; what's accepted and not accepted, the monthly limit, packing tips, needles): <https://www.nashville.gov/departments/waste-services/convenience-centers/household-hazardous-waste>
 - Nashville.gov (Waste Services), *Recycling and Waste Items Convenience Center Services* (updated May 28, 2026; fee table, 1 visit a day, ID and vehicle rules, not-accepted list): <https://www.nashville.gov/departments/waste-services/convenience-centers>
 - Nashville.gov (Waste Services), *Recycling Drop-off Site and Convenience Center Hours and Locations* (updated Oct 21, 2026; hours, closed on Metro holidays): <https://www.nashville.gov/departments/waste-services/convenience-centers/hours-and-locations>
+- Nashville.gov (Waste Services), *Curbside Trash Collection Guidelines* (updated July 9, 2025; dry out latex paint and water-based stains before they go in the trash): <https://www.nashville.gov/departments/waste-services/trash-and-recycling-services/trash-guidelines>
 - Metro Nashville Public Works, *Upcoming Latex Paint Disposal Policy Change* (effective Jan 1, 2014, PDF; latex paint steps): <https://www.nashville.gov/sites/default/files/2023-12/Latex-Paint-Disposal-Policy.pdf>
 - Tennessee Department of Environment and Conservation, *Household Paint* (updated Sept 25, 2025; wet latex paint and landfills, oil-based paint, drains): <https://www.tn.gov/environment/program-areas/solid-waste/materials-management/bopae/paint.html>
 - Nashville.gov (Metro Nashville Police), *Safely Dispose of Unwanted Drugs* (updated Mar 16, 2026; medicine drop-off locations, hours, what's accepted): <https://www.nashville.gov/departments/police/support-services/evidence-storage/safely-dispose-unwanted-drugs>
