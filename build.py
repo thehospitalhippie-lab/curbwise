@@ -88,7 +88,14 @@ def main():
 
     env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=select_autoescape(["html"]))
     env.filters["human_date"] = human_date
-    build_id = hashlib.sha1(dt.datetime.now().isoformat().encode()).hexdigest()[:8]
+    # Cache-buster from the static files' contents, so a rebuild with no changes
+    # leaves docs/ byte-identical (clean diffs, easy rollback).
+    _h = hashlib.sha1()
+    for _f in sorted((ROOT / "static").rglob("*")):
+        if _f.is_file():
+            _h.update(_f.relative_to(ROOT).as_posix().encode())
+            _h.update(_f.read_bytes())
+    build_id = _h.hexdigest()[:8]
 
     # ---------- Markdown helpers ----------
     def city():

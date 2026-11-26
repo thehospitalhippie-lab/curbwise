@@ -107,3 +107,9 @@ Launch a city only when its official sources cover drop-off sites, hours, fees a
 
 - `adsense_client` in `config.json` turns on Google Auto ads site-wide and writes `ads.txt`. Only Micaiah sets it, in chat. Pages with `no_ads: true` in their front matter never load ads. Never add ad code anywhere else.
 - An affiliate URL may contain `{page}`; the build swaps in the page's slug so network reports show which page earned. Use it in the network's sub-ID field (Awin `clickref`, FlexOffers `fobs`, Impact `subId1`).
+
+## Reading sources and getting unstuck (added 2026-11-26)
+
+- **Read sources with WebSearch and WebFetch only.** The shell in a scheduled run has no internet: `curl`, `wget` and Python requests fail with "not in allowed network domains" or "does not resolve" for every site, including ones that are up. That is not the source being down. (Closet Compass lost Nov 9–17 to this: eight nights of "nothing shipped" while tn.gov loaded fine through WebFetch.)
+- If WebFetch itself fails on a source, try the same fact on another official page (a .gov page, a PDF, the org's other site) before giving up on it, then move to the next backlog item. One dead host never ends the night.
+- **Stall rule.** Before picking tonight's task, read the last 3 lines of `yeha/log.md`. If the last 2 runs both shipped nothing for the same reason, don't repeat the same attempt: move that item to the bottom of the backlog with the reason, and work the next one. If the last 3 runs all shipped nothing, ship nothing tonight either; log "Stalled: <reason>" and send Micaiah ONE Telegram alert (AnythingMCP, `telegram_bot_send_message`, chat_id 6690363616, HTML) saying which site is stalled and why, in one or two lines. Never send that alert two nights in a row for the same reason.
