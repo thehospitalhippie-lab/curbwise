@@ -5,7 +5,7 @@
   "county": "Davidson County",
   "authority": "Nashville Department of Waste Services",
   "phone": "615-862-5000",
-  "last_checked": "2026-11-10",
+  "last_checked": "2026-11-27",
   "centers": [
     {
       "key": "anderson",
@@ -71,6 +71,20 @@
       "where": "East, Ezell Pike",
       "fee": "Free",
       "limits": "Part of the hazardous-waste drop-off. Omohundro also takes it (no fee posted)"
+    },
+    {
+      "key": "batteries",
+      "material": "Rechargeable, lithium-ion and car batteries",
+      "where": "East, Ezell Pike",
+      "fee": "Free",
+      "limits": "Part of the hazardous-waste drop-off. Metro says only East and Ezell Pike take lithium-ion batteries"
+    },
+    {
+      "key": "fluorescent_bulbs",
+      "material": "CFL bulbs, fluorescent tubes and mercury thermometers",
+      "where": "East, Ezell Pike",
+      "fee": "Free",
+      "limits": "Part of the hazardous-waste drop-off"
     },
     {
       "key": "tires",
@@ -166,7 +180,7 @@
   ],
   "sources": [
     {
-      "title": "Nashville.gov: Convenience Center fees, rules and requirements (updated May 28, 2026)",
+      "title": "Nashville.gov: Convenience Center fees, rules and requirements (updated Nov 10, 2026)",
       "url": "https://www.nashville.gov/departments/waste-services/convenience-centers"
     },
     {
@@ -180,6 +194,10 @@
     {
       "title": "Nashville.gov: Electronic Waste Recycling (updated Sept 18, 2025)",
       "url": "https://www.nashville.gov/departments/waste-services/convenience-centers/electronic-waste-recycling"
+    },
+    {
+      "title": "Nashville.gov (Waste Services news): Fire Prevention Week release with the Nashville Fire Marshal on lithium-ion batteries (Oct 2, 2026)",
+      "url": "https://www.nashville.gov/departments/waste-services/news/nashville-fire-marshal-kicks-fire-prevention-week-nashville-department-waste-services"
     },
     {
       "title": "Metro Nashville Waste Services: Nashville Area Recycling Service Providers (2026, PDF)",

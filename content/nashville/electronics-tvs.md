@@ -20,6 +20,8 @@ order: 4
 
 Phones and smartphones, computers and computer parts (cables, keyboards, mice, hubs, external drives), monitors, printers, copiers, scanners, fax machines, **TVs**, microwaves, coffee makers and other kitchen appliances, hair dryers, electric toothbrushes and other bathroom appliances, stereos, radios, cassette and CD players, DVD and VCR players, tablets, e-readers, MP3 players, pagers and other handheld electronics, **string lights**, **rechargeable batteries**, and music or video cassettes and discs.
 
+**Loose rechargeable batteries:** Metro's October 2026 fire-safety notice says only East and Ezell Pike take lithium-ion batteries, so take loose rechargeable batteries to one of those two. Alkaline batteries go in your trash. See [batteries, bulbs and propane]({{ url('/nashville/batteries-bulbs-propane/') }}) for how to get them ready.
+
 Big appliances like fridges, stoves and washers are recycled as scrap metal instead. See [appliances]({{ url('/nashville/appliances/') }}).
 
 ## The rules
@@ -46,8 +48,10 @@ Wipe your phones, tablets and computers. Sign out of your accounts, do a factory
 ## Sources
 
 - Nashville.gov (Waste Services), *Electronic Waste Recycling* (updated Sept 18, 2025; accepted items, daily limits, and the Metro Code ban on electronics in the trash): <https://www.nashville.gov/departments/waste-services/convenience-centers/electronic-waste-recycling>
-- Nashville.gov (Waste Services), *Recycling and Waste Items Convenience Center Services* (updated May 28, 2026; which centers take electronics): <https://www.nashville.gov/departments/waste-services/convenience-centers>
+- Nashville.gov (Waste Services), *Recycling and Waste Items Convenience Center Services* (updated Nov 10, 2026; which centers take electronics): <https://www.nashville.gov/departments/waste-services/convenience-centers>
 - Nashville.gov (Waste Services), *Recycling Drop-off Site and Convenience Center Hours and Locations* (updated Oct 21, 2026): <https://www.nashville.gov/departments/waste-services/convenience-centers/hours-and-locations>
 - Nashville.gov (Waste Services), *Bulky Item Collection* (updated Sept 17, 2025; big appliances recycled as scrap metal): <https://www.nashville.gov/departments/waste-services/convenience-centers/bulky-item-collection>
+- Nashville.gov (Waste Services news), Fire Prevention Week release with the Nashville Fire Marshal (Oct 2, 2026; only East and Ezell Pike take lithium-ion batteries): <https://www.nashville.gov/departments/waste-services/news/nashville-fire-marshal-kicks-fire-prevention-week-nashville-department-waste-services>
+- Tennessee Department of Environment and Conservation, *Household Batteries* (updated Sept 22, 2025; alkaline batteries can go in the regular trash): <https://www.tn.gov/environment/program-areas/solid-waste/materials-management/bopae/batteries.html>
 
 </div>

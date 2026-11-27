@@ -50,7 +50,7 @@ Metro's list includes:
 - **Cleaners:** bleach, household cleaners, drain opener, oven cleaner, toilet bowl cleaner, tub and tile cleaner, spot remover, detergent and shoe polish
 - **Bugs, weeds and pests:** pesticides, insecticide, weed killer, rat and mouse poison, insect repellent, flea collars, pet spray and dip, and mothballs
 - **Pool:** pool chemicals
-- **Batteries, bulbs and mercury:** rechargeable batteries, car batteries and other lead-acid batteries, fluorescent tubes, CFL bulbs and mercury thermometers
+- **Batteries, bulbs and mercury:** rechargeable batteries, car batteries and other lead-acid batteries, fluorescent tubes, CFL bulbs and mercury thermometers (see [batteries, bulbs and propane]({{ url('/nashville/batteries-bulbs-propane/') }}))
 - **Kitchen:** cooking grease (see [cooking oil and grease]({{ url('/nashville/cooking-oil/') }}))
 
 ### Pack it so nothing spills
@@ -68,7 +68,8 @@ These are Metro's tips for getting it there safely:
 - **Unused or expired medicine:** Metro Nashville Police takes it at 10 locations (its precincts and headquarters), weekdays 8 a.m.–4 p.m. It takes prescription, over-the-counter and pet medicines, inhalers, and liquids in leak-proof containers. It doesn't take needles, thermometers, blood sugar equipment or IV bags. (Mercury thermometers can go to the hazardous-waste drop-off.) Addresses are on the police department's page (see Sources).
 - **Needles:** Metro says you can put them in a red sharps container, or a 2-liter bottle with the lid on, and put that in your trash. Other medical waste isn't accepted at the drop-off.
 - **Water-based stains:** not accepted. Metro's trash guidelines say to dry them out like latex paint, by leaving the lid off or adding cat litter, before the can goes in your trash.
-- **Propane tanks, ammunition and explosives:** not accepted, and Metro's pages don't say where they go. Fireworks and flares aren't accepted at any Convenience Center, either.
+- **Propane tanks:** not accepted. See [batteries, bulbs and propane]({{ url('/nashville/batteries-bulbs-propane/') }}) for what to do instead.
+- **Ammunition and explosives:** not accepted, and Metro's pages don't say where they go. Fireworks and flares aren't accepted at any Convenience Center, either.
 - **More than the monthly limit, or waste from outside Davidson County:** not accepted.
 
 Questions about household hazardous waste, including the items above: call Metro at 615-862-5000.
