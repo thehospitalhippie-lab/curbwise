@@ -1,29 +1,29 @@
 ---
-title: Does Nashville pick up bulk trash? What Metro takes at the curb
-description: Metro Nashville doesn't pick up bulky items or extra bags at the curb. Who gets curbside service, cart rules, extra carts, holiday pickup dates, and where big items go instead.
+title: Does Nashville pick up bulk trash? How to get bulky items picked up at the curb
+description: Metro's trash crews don't take bulky items, but the Davidson County Sheriff's Office picks them up at the curb when you call to schedule it (615-880-3897). What it takes, its rules, the free Convenience Center option, cart rules and holiday dates.
 path: /nashville/bulk-trash/
 kind: guide
 city: nashville
 item_label: Bulk trash & curbside pickup
-summary: Not at the curb. What Metro does take, extra carts and holiday dates
+summary: Call the Sheriff's Office for curbside pickup; cart rules and holiday dates
 eyebrow: Nashville · Bulk trash & curbside pickup
-lede: Metro's curbside service takes bagged trash in your cart, recycling every other week, and brush four times a year. Couches, mattresses, extra bags and other big stuff go to a Convenience Center instead.
-updated: 2026-11-07
+lede: Metro's curbside service takes bagged trash in your cart, recycling every other week, and brush four times a year. For couches, mattresses and other big items, schedule a curbside pickup with the Sheriff's Office or take them to a Convenience Center.
+updated: 2026-11-28
 order: 8
 ---
 
 <div class="answer" markdown="1">
-**Quick answer:** No. Metro doesn't pick up couches, mattresses, appliances or other bulky items at the curb, and trash crews won't take bags or boxes left beside your cart. Take them to a **Convenience Center** instead. There, 1 bulk item plus 3 bags of trash is **free** once a day, but mattresses cost **{{ fee('mattress')['fee'] }}**. The one curbside exception is brush and leaves, which Metro picks up four times a year.
+**Quick answer:** Metro's trash crews don't pick up couches, mattresses, appliances or other bulky items, and they won't take bags or boxes left beside your cart. For a curbside pickup, Metro points you to the **Davidson County Sheriff's Office**: call **615-880-3897** to schedule one. Or take big items to a **Convenience Center**, where 1 bulk item plus 3 bags of trash is **free** once a day (mattresses cost **{{ fee('mattress')['fee'] }}**). Brush and leaves have their own curbside pickup four times a year.
 </div>
 
 ## What Metro picks up at the curb
 
 Metro's curbside trash and recycling service is for **single-family homes in the Urban Services District (USD)**. That includes duplexes, triplexes and quadplexes.
 
-- **Trash:** every week, bagged, inside your brown cart.
+- **Trash:** every week, bagged, inside your brown trash cart.
 - **Recycling:** every other week, loose (not bagged), inside your recycling cart.
 - **Brush and leaves:** four times a year. NDOT runs this pickup for single-family homes in both the USD and the General Services District, but not on private streets or in satellite cities. See our [leaves, brush and yard waste guide]({{ url('/nashville/yard-waste/') }}).
-- **Bulky items:** no. Metro's bulky item page says anything too big for your cart belongs at a Convenience Center.
+- **Bulky items:** not by Metro's trash crews. Metro's bulky item page says to take them to a Convenience Center, or to contact the Sheriff's Office for a curbside pickup (see below).
 - **Anything outside the cart:** no. Extra bags, boxes and other items set next to your cart won't be picked up.
 
 ### Outside the USD, or in an apartment?
@@ -32,6 +32,28 @@ Metro's curbside trash and recycling service is for **single-family homes in the
 - **Apartments and other multi-family buildings:** ask your property manager about trash and recycling. Inside the USD, Metro provides dumpster service to a complex if the owner or manager asks for it.
 - **Either way,** you can still take household waste to the Convenience Centers. Bring a Tennessee driver's license showing a Davidson County address.
 - **Not sure which district you're in?** Call Waste Services at 615-862-5000 to confirm.
+
+## Curbside pickup for big items: call the Sheriff's Office
+
+Metro's bulky item page says to contact the Davidson County Sheriff's Office for curbside pickup of bulky items. Here's how the Sheriff's Office says it works.
+
+- **Call 615-880-3897 to schedule.** The Sheriff's contact page says you don't need to fill out its contact form for this. When you call, you'll be asked to list your items and give the address, a phone number and the resident's name.
+- **Cost:** the Sheriff's pages we read don't mention a fee, so ask when you call.
+- **The homeowner or tenant** has to make the request, for items from their own home.
+- **Front curb only.** Items need to be at the curb in front of your home by 6:30 a.m. You'll get a date for the pickup, and crews have up to seven business days from that date to come (weekends and holidays don't count), so ask when to set things out.
+- **Apartment, condo or townhome?** The Sheriff's crews can't go onto private property such as apartment, condo and townhome complexes, private roads, gated communities or business properties. If you live in an apartment, condo or townhome, the Sheriff's Office asks that you put items at the front curb by the property's main entrance.
+- **Not for eviction items.** The Sheriff's Office says the law doesn't let it remove bulk items that resulted from an eviction.
+
+**What the crews take:** furniture, including sofas, lawn furniture and baby furniture; mattresses and box springs; carpet, carpet pads and rugs; TVs, computers, monitors and copy machines; appliances like fridges, freezers, ranges, washers, dryers, water heaters, microwaves and air conditioners; exercise equipment, bikes and kids' toys; toilets; lawn mowers (drain the gas and oil first); lumber and construction debris; fencing, pallets and shipping crates; car parts like fenders, hoods, metal bumpers, transmissions and radiators; and a mailbox or fence post with its concrete footing. Swing sets, basketball goals and storage sheds have to be taken apart first, and a hot tub has to be in two pieces.
+
+- **Setting out a fridge or freezer?** Take the doors off first. See [appliances]({{ url('/nashville/appliances/') }}).
+- **Draining a mower?** Old gas and motor oil go **{{ fee('hhw')['fee'] | lower }}** to Metro's hazardous-waste drop-off at East or Ezell Pike. See [paint and chemicals]({{ url('/nashville/paint-chemicals/') }}).
+
+**What they won't take:** anything in bags; tires; batteries; glass or mirrored items; drywall and roofing; sand, dirt, rocks or concrete; paint cans, even empty ones; motor oil; household or hazardous chemicals and materials; propane, gas and compressed-air tanks; trash cans, shopping carts and other businesses' products; boats, cars, motorcycles and jet skis; and brush or tree limbs, which go out for the brush pickup instead.
+
+**Want it recycled?** Metro says scrap metal and mattresses picked up at the curb aren't recycled, but they are recycled at a Convenience Center.
+
+**Only set things out once you have a date.** Metro's trash crews won't take anything left outside your cart.
 
 ## Too much for your cart? Three fixes
 
@@ -54,10 +76,11 @@ If your cart is full every week, you can get **one extra trash cart for {{ fee('
 
 Recycling carts are {{ fee('recycling_cart')['fee'] | lower }}, and you can have up to two. Request one with [hubNashville's cart service form](https://hub.nashville.gov/s/request-type/a0ut0000000IlGWAA0/cart-service?language=en_US). The extra room helps with cardboard, which isn't allowed in your trash cart. Put boxes in your recycling cart, or take them to a Convenience Center or one of Metro's recycling drop-off sites.
 
-## Where big items go instead
+## Where big items go
 
+- **Can't haul it yourself?** Schedule a curbside pickup with the Sheriff's Office (see above).
 - **Couches, chairs, dressers and tables:** one piece is free with your daily free visit. See [couches and furniture]({{ url('/nashville/couch-furniture/') }}).
-- **Mattresses and box springs:** {{ fee_text('mattress') }}. See [mattresses]({{ url('/nashville/mattress/') }}).
+- **Mattresses and box springs:** {{ fee_text('mattress') }}. Metro recycles the ones dropped off at a center. See [mattresses]({{ url('/nashville/mattress/') }}).
 - **Fridges, washers, stoves and other appliances:** Metro recycles them as scrap metal, and one item (or up to three bags of scrap metal) is free. See [appliances]({{ url('/nashville/appliances/') }}), and read it first for fridges and freezers.
 - **TVs and electronics:** {{ fee_text('electronics') }}. See [TVs and electronics]({{ url('/nashville/electronics-tvs/') }}).
 - **Tires:** without rims, {{ fee_text('tires') }}. On rims, {{ fee_text('tires_rims') }}. See [tires]({{ url('/nashville/tires/') }}).
@@ -90,12 +113,11 @@ Pickup days changed the week of February 2, 2026, when Metro moved trash and rec
 
 Metro updated its holiday schedule for the rest of 2026. When a holiday lands on your pickup day, your cart is picked up on a Monday instead:
 
-- **Veterans Day, Wednesday, Nov 11:** Wednesday routes are picked up **Monday, Nov 9**. That's two days early.
-- **Thanksgiving, Thursday, Nov 26:** Thursday routes are picked up **Monday, Nov 30**. Friday, Nov 27 is a normal pickup day.
+- **Thanksgiving week:** Thursday routes are picked up **Monday, Nov 30**.
 - **Christmas, Friday, Dec 25:** Friday routes are picked up **Monday, Dec 28**. Thursday, Dec 24 is a normal pickup day.
 - **New Year's Day, Friday, Jan 1, 2027:** Friday routes are picked up **Monday, Jan 4**.
 
-Convenience Centers close on Metro holidays. Through New Year's, they're closed Nov 11, Nov 26 and 27, Dec 24 and 25, and Jan 1.
+Convenience Centers close on Metro holidays. Through New Year's, they're closed Dec 24 and 25 and Jan 1.
 
 Questions: call Waste Services at 615-862-5000, or contact [hubNashville](https://hub.nashville.gov) online or at 311.
 
@@ -105,10 +127,13 @@ Questions: call Waste Services at 615-862-5000, or contact [hubNashville](https:
 
 ## Sources
 
-- Nashville.gov (Waste Services), *Curbside Trash and Recycling Services* (updated Oct 19, 2026; who gets service, cart rules, extra carts, holiday schedule): <https://www.nashville.gov/departments/waste-services/trash-and-recycling-services>
-- Nashville.gov (Waste Services), *Curbside Trash Collection Guidelines* (updated July 9, 2025; what's banned from trash): <https://www.nashville.gov/departments/waste-services/trash-and-recycling-services/trash-guidelines>
-- Nashville.gov (Waste Services), *Bulky Item Collection* (updated Sept 17, 2025): <https://www.nashville.gov/departments/waste-services/convenience-centers/bulky-item-collection>
-- Nashville.gov (Waste Services), *Recycling and Waste Items Convenience Center Services* (fees, rules and requirements; updated May 28, 2026): <https://www.nashville.gov/departments/waste-services/convenience-centers>
+- Nashville.gov (Waste Services), *Bulky Item Collection* (updated Nov 10, 2026; bulky items go to a Convenience Center, contact the Sheriff's Office for curbside pickup, scrap metal and mattresses aren't recycled with curbside pickup, free scrap metal limit): <https://www.nashville.gov/departments/waste-services/convenience-centers/bulky-item-collection>
+- Davidson County Sheriff's Office, *Bulk Item Removal* (what its crews take and won't take, front curb by 6:30 a.m., up to seven business days, who can ask, complexes, private roads, gated communities and businesses, evictions): <https://sheriff.nashville.gov/bulk-item-removal/>
+- Davidson County Sheriff's Office, *Contact the Nashville / Davidson County Sheriff's Office* (call 615-880-3897 for bulk item removal): <https://sheriff.nashville.gov/contact-the-nashville-davidson-county-sheriffs-office/>
+- Nashville.gov (Waste Services), *Household Hazardous Waste Collection* (updated Apr 22, 2026; gasoline and motor oil taken free at East and Ezell Pike): <https://www.nashville.gov/departments/waste-services/convenience-centers/household-hazardous-waste>
+- Nashville.gov (Waste Services), *Curbside Trash and Recycling Services* (updated Oct 19, 2026; who gets service, cart rules, extra carts, items outside carts, holiday schedule): <https://www.nashville.gov/departments/waste-services/trash-and-recycling-services>
+- Nashville.gov (Waste Services), *Curbside Trash Collection Guidelines* (updated July 9, 2025; brown cart, what's banned from trash): <https://www.nashville.gov/departments/waste-services/trash-and-recycling-services/trash-guidelines>
+- Nashville.gov (Waste Services), *Recycling and Waste Items Convenience Center Services* (fees, rules and requirements; updated Nov 10, 2026): <https://www.nashville.gov/departments/waste-services/convenience-centers>
 - Nashville.gov (Waste Services), *Recycling Drop-off Site and Convenience Center Hours and Locations* (updated Oct 21, 2026): <https://www.nashville.gov/departments/waste-services/convenience-centers/hours-and-locations>
 - Nashville.gov (Waste Services), *Electronic Waste Recycling* (TVs and electronics): <https://www.nashville.gov/departments/waste-services/convenience-centers/electronic-waste-recycling>
 - Nashville.gov (Waste Services), *Collection Calendar and Waste Wizard* (updated Oct 9, 2026; the app): <https://www.nashville.gov/departments/waste-services/trash-and-recycling-services/recycling-app>

@@ -143,6 +143,13 @@
       "limits": "For sale at the center"
     },
     {
+      "key": "curbside_bulk",
+      "material": "Curbside pickup of bulky items (Davidson County Sheriff's Office)",
+      "where": "Your home's front curb. Call 615-880-3897 to schedule",
+      "fee": "Ask when you call",
+      "limits": "The homeowner or tenant asks for it. Items at the front curb by 6:30 a.m.; crews have up to 7 business days. Crews can't go onto apartment, condo or townhome complexes, private roads, gated communities or businesses (in a complex, use the curb at the main entrance). Nothing in bags; no tires, glass, drywall, roofing, paint cans or hazardous items"
+    },
+    {
       "key": "trash_cart",
       "material": "Extra curbside trash cart",
       "where": "Metro curbside service",
@@ -204,8 +211,16 @@
       "url": "https://www.nashville.gov/sites/default/files/2026-10/RecyclingServiceProviders2026.pdf"
     },
     {
-      "title": "Nashville.gov: Bulky item collection (updated Sept 17, 2025)",
+      "title": "Nashville.gov: Bulky item collection (updated Nov 10, 2026; contact the Sheriff's Office for curbside pickup)",
       "url": "https://www.nashville.gov/departments/waste-services/convenience-centers/bulky-item-collection"
+    },
+    {
+      "title": "Davidson County Sheriff's Office: Bulk Item Removal (what crews pick up at the curb, and the rules)",
+      "url": "https://sheriff.nashville.gov/bulk-item-removal/"
+    },
+    {
+      "title": "Davidson County Sheriff's Office: Contact page (call 615-880-3897 for bulk item removal)",
+      "url": "https://sheriff.nashville.gov/contact-the-nashville-davidson-county-sheriffs-office/"
     },
     {
       "title": "Nashville.gov: Curbside Trash and Recycling Services (updated Oct 19, 2026)",

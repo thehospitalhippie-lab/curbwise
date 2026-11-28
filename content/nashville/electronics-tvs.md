@@ -24,6 +24,8 @@ Phones and smartphones, computers and computer parts (cables, keyboards, mice, h
 
 Big appliances like fridges, stoves and washers are recycled as scrap metal instead. See [appliances]({{ url('/nashville/appliances/') }}).
 
+**Can't haul a big TV or computer?** The Davidson County Sheriff's Office's curbside pickup lists televisions, computers and monitors, and copy machines. Call 615-880-3897 to schedule one. Metro's and the Sheriff's pages don't say whether electronics picked up at the curb are recycled, so to be sure yours is, bring it to a Convenience Center. Our [curbside pickup guide]({{ url('/nashville/bulk-trash/') }}) has the Sheriff's full list and rules.
+
 ## The rules
 
 - **Free**, with no fee at all.
@@ -50,7 +52,9 @@ Wipe your phones, tablets and computers. Sign out of your accounts, do a factory
 - Nashville.gov (Waste Services), *Electronic Waste Recycling* (updated Sept 18, 2025; accepted items, daily limits, and the Metro Code ban on electronics in the trash): <https://www.nashville.gov/departments/waste-services/convenience-centers/electronic-waste-recycling>
 - Nashville.gov (Waste Services), *Recycling and Waste Items Convenience Center Services* (updated Nov 10, 2026; which centers take electronics): <https://www.nashville.gov/departments/waste-services/convenience-centers>
 - Nashville.gov (Waste Services), *Recycling Drop-off Site and Convenience Center Hours and Locations* (updated Oct 21, 2026): <https://www.nashville.gov/departments/waste-services/convenience-centers/hours-and-locations>
-- Nashville.gov (Waste Services), *Bulky Item Collection* (updated Sept 17, 2025; big appliances recycled as scrap metal): <https://www.nashville.gov/departments/waste-services/convenience-centers/bulky-item-collection>
+- Nashville.gov (Waste Services), *Bulky Item Collection* (updated Nov 10, 2026; big appliances recycled as scrap metal, contact the Sheriff's Office for curbside pickup): <https://www.nashville.gov/departments/waste-services/convenience-centers/bulky-item-collection>
+- Davidson County Sheriff's Office, *Bulk Item Removal* (televisions, computers, monitors and copy machines on its curbside list): <https://sheriff.nashville.gov/bulk-item-removal/>
+- Davidson County Sheriff's Office, *Contact the Nashville / Davidson County Sheriff's Office* (call 615-880-3897 for bulk item removal): <https://sheriff.nashville.gov/contact-the-nashville-davidson-county-sheriffs-office/>
 - Nashville.gov (Waste Services news), Fire Prevention Week release with the Nashville Fire Marshal (Oct 2, 2026; only East and Ezell Pike take lithium-ion batteries): <https://www.nashville.gov/departments/waste-services/news/nashville-fire-marshal-kicks-fire-prevention-week-nashville-department-waste-services>
 - Tennessee Department of Environment and Conservation, *Household Batteries* (updated Sept 22, 2025; alkaline batteries can go in the regular trash): <https://www.tn.gov/environment/program-areas/solid-waste/materials-management/bopae/batteries.html>
 

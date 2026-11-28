@@ -7,13 +7,13 @@ city: nashville
 item_label: Construction & remodel debris
 summary: Small DIY loads go to Omohundro for $20; bigger jobs need a hauler or contractor
 eyebrow: Nashville · Construction & remodel debris
-lede: Construction debris can't go in your trash cart, and Metro won't haul it away. One Convenience Center takes small do-it-yourself loads. For anything bigger, Metro says to use a private hauler or your contractor.
+lede: Construction debris can't go in your trash cart, and Metro's trash crews won't haul it away. One Convenience Center takes small do-it-yourself loads, and the Sheriff's Office picks up lumber and some other debris at the curb if you call to schedule it. For anything bigger, Metro says to use a private hauler or your contractor.
 updated: 2026-11-10
 order: 10
 ---
 
 <div class="answer" markdown="1">
-**Quick answer:** Small do-it-yourself loads go to the **Omohundro Convenience Center**, the only Metro center that takes construction and demolition debris. It costs **{{ fee('cnd')['fee'] }}** a load, 1 visit a day, and Omohundro doesn't take cash. Keep the load to **1 cubic yard** unless Metro tells you 2 is OK, because its pages disagree. Brick, concrete, rock, dirt, roofing shingles, siding and asbestos aren't accepted at Metro's Convenience Centers. For bigger jobs, Metro says to hire a private hauler or have your contractor take it.
+**Quick answer:** Small do-it-yourself loads go to the **Omohundro Convenience Center**, the only Metro center that takes construction and demolition debris. It costs **{{ fee('cnd')['fee'] }}** a load, 1 visit a day, and Omohundro doesn't take cash. Keep the load to **1 cubic yard** unless Metro tells you 2 is OK, because its pages disagree. Brick, concrete, rock, dirt, roofing shingles, siding and asbestos aren't accepted at Metro's Convenience Centers. Lumber, fencing, pallets and some construction debris can also go out for the **Sheriff's Office's curbside pickup** (call 615-880-3897 to schedule it), but not drywall, roofing, glass, or sand, dirt, rocks or concrete. For bigger jobs, Metro says to hire a private hauler or have your contractor take it.
 </div>
 
 ## Small do-it-yourself loads: Omohundro only
@@ -44,6 +44,16 @@ Metro's fee table mentions a list of accepted construction materials, but the li
 
 **Asbestos:** Metro's pages don't say where it goes. Call 615-862-5000 to ask before you tear out anything that might contain it.
 
+## Curbside pickup: lumber, fencing, pallets and some debris
+
+Metro's bulky item page says to contact the **Davidson County Sheriff's Office** for curbside pickup of bulky items. The Sheriff's list includes lumber, construction debris, fencing, pallets and shipping crates, toilets, carpet and carpet pads, and a mailbox or fence post with its concrete footing. Storage sheds have to be taken apart first. That covers some things the Convenience Centers won't take, like pallets and posts.
+
+- **It won't take:** drywall, roofing, glass or mirrored items, sand, dirt, rocks or concrete, paint cans (even empty ones), or anything in bags.
+- **Call 615-880-3897** to schedule. The homeowner or tenant has to make the request. The Sheriff's pages we read don't mention a fee, so ask when you call.
+- **Front curb, by 6:30 a.m.** Crews have up to seven business days from the date you're given (weekends and holidays don't count), so ask when to set things out.
+
+Our [curbside pickup guide]({{ url('/nashville/bulk-trash/') }}) has the Sheriff's full list and rules.
+
 ## Still usable? Donate it first
 
 Metro's advice to builders is to send material to a landfill only when there's no better use for it. Cabinets, doors and leftover lumber often have one.
@@ -69,7 +79,7 @@ Metro's rule is that residential construction waste must be collected by a priva
 ## What not to do
 
 - **Don't put it in your trash cart.** Metro bans construction debris from curbside trash.
-- **Don't leave it at the curb.** Metro doesn't pick up items left outside your cart. See our [curbside pickup guide]({{ url('/nashville/bulk-trash/') }}).
+- **Don't leave it at the curb** unless the Sheriff's Office has given you a pickup date. Metro's trash crews don't pick up items left outside your cart. See our [curbside pickup guide]({{ url('/nashville/bulk-trash/') }}).
 - **Don't dump it** on an empty lot, along a road or in a dumpster that isn't yours.
 
 Not sure where something goes? Metro's Waste Wizard, in the Nashville Waste and Recycling app, looks up where to take materials, or you can call 615-924-2633. Questions about Omohundro: call Waste Services at 615-862-5000.
@@ -82,8 +92,10 @@ Hiring a junk hauler instead? Ask whether they take construction debris before y
 
 ## Sources
 
-- Nashville.gov (Waste Services), *Recycling and Waste Items Convenience Center Services* (updated May 28, 2026; construction-debris fee, Omohundro only, 2-cubic-yard limit, 1 visit a day, not-accepted list, payment, ID and vehicle rules, the Waste Wizard and 615-924-2633): <https://www.nashville.gov/departments/waste-services/convenience-centers>
-- Nashville.gov (Waste Services), *Waste Services Bulky Item Collection* (updated Sept 17, 2025; 1-cubic-yard limit at Omohundro, private sites for larger loads, link to Metro's list of recycling processors, some may only accept commercial loads): <https://www.nashville.gov/departments/waste-services/convenience-centers/bulky-item-collection>
+- Nashville.gov (Waste Services), *Recycling and Waste Items Convenience Center Services* (updated Nov 10, 2026; construction-debris fee, Omohundro only, 2-cubic-yard limit, 1 visit a day, not-accepted list, payment, ID and vehicle rules, the Waste Wizard and 615-924-2633): <https://www.nashville.gov/departments/waste-services/convenience-centers>
+- Nashville.gov (Waste Services), *Waste Services Bulky Item Collection* (updated Nov 10, 2026; 1-cubic-yard limit at Omohundro, private sites for larger loads, link to Metro's list of recycling processors, some may only accept commercial loads, contact the Sheriff's Office for curbside pickup): <https://www.nashville.gov/departments/waste-services/convenience-centers/bulky-item-collection>
+- Davidson County Sheriff's Office, *Bulk Item Removal* (lumber, construction debris, fencing, pallets and posts on its list; no drywall, roofing, glass, sand, dirt, rocks, concrete, paint cans or bags; front curb by 6:30 a.m.; up to seven business days): <https://sheriff.nashville.gov/bulk-item-removal/>
+- Davidson County Sheriff's Office, *Contact the Nashville / Davidson County Sheriff's Office* (call 615-880-3897 for bulk item removal): <https://sheriff.nashville.gov/contact-the-nashville-davidson-county-sheriffs-office/>
 - Nashville.gov (Waste Services), *Curbside Trash Collection Guidelines* (updated July 9, 2025; construction debris is banned from trash carts and must go with a private hauler or contractor; dry out latex paint and water-based stains): <https://www.nashville.gov/departments/waste-services/trash-and-recycling-services/trash-guidelines>
 - Nashville.gov (Waste Services), *Curbside Trash and Recycling Services* (updated Oct 19, 2026; items left outside carts aren't picked up): <https://www.nashville.gov/departments/waste-services/trash-and-recycling-services>
 - Nashville.gov (Waste Services), *Recycling Drop-off Site and Convenience Center Hours and Locations* (updated Oct 21, 2026; Omohundro's address and hours, closed on Metro holidays): <https://www.nashville.gov/departments/waste-services/convenience-centers/hours-and-locations>
